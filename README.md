@@ -35,7 +35,7 @@ Le projet fil conducteur est une occasion unique de mettre en pratique tout ce q
 
 ## Contributeurs 👩‍💻
 
-- [DENIS Victor](#) (Lien vers le profil GitHub si disponible)
+- DENIS Victor
 
 ## Ressources Supplémentaires 📚
 - [Awesome Software Architecture](https://github.com/mfornos/awesome-microservices) - Une collection de ressources pour en savoir plus sur l'architecture logicielle.

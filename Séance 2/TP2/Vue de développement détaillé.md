@@ -2,8 +2,8 @@
 
 ## Objectifs 🎯
 
-Comprendre en profondeur la Vue de Développement du modèle 4+1 et être capable de l'expliquer aux autres étudiants en 5 minutes.
-
+Comprendre en profondeur la Vue de Développement du modèle 4+1 et être capable de l'expliquer aux autres étudiants en 5 à 10 minutes.
+ 
 ## Étapes 📝
 
 1. **Définition de la Vue de Développement**
@@ -36,7 +36,7 @@ Comprendre en profondeur la Vue de Développement du modèle 4+1 et être capabl
 
 7. **Préparation des Supports de Présentation**
    - Utilisez des diagrammes ou des schémas pour illustrer votre propos.
-   - Assurez-vous que votre présentation ne dépasse pas 5 minutes !
+   - Assurez-vous que votre présentation ne dépasse pas 10 minutes !
 
 ---
 

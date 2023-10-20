@@ -4,7 +4,7 @@ Bien sûr, voici un énoncé détaillé pour la **Vue Physique** :
 ## Objectifs 🎯
 Comprendre en profondeur la Vue Physique du modèle d'architecture 4+1 et être capable de présenter ses composants clés, son importance, et son rôle dans l'architecture globale d'un système.
 
-**Durée estimée :** 45 minutes de recherche et préparation, 5 minutes de présentation.
+**Durée estimée :** 45 minutes de recherche et préparation, 5 à 10 minutes de présentation.
 
 ## Étapes 📝
 

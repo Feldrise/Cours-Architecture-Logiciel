@@ -23,7 +23,7 @@
 ### Étapes
 1. **Recherche** : Utilisez des ressources en ligne, des livres ou des notes de cours pour approfondir votre compréhension de la vue assignée. Par exemple, si votre groupe travaille sur la "vue logique", vous pourriez explorer comment elle représente les éléments principaux du système du point de vue de l'utilisateur final. 🕵️‍♂️
 2. **Discussion en groupe** : Partagez vos trouvailles avec votre groupe et discutez-en pour vous assurer que tout le monde a une compréhension solide de la vue. 👥
-3. **Préparation de la présentation** : Organisez vos informations de manière logique et préparez une présentation de 5 minutes pour les autres étudiants. N'oubliez pas d'inclure des exemples pour illustrer vos points! 💼
+3. **Préparation de la présentation** : Organisez vos informations de manière logique et préparez une présentation de 5 à 10 minutes pour les autres étudiants. N'oubliez pas d'inclure des exemples pour illustrer vos points! 💼
 
 ---
 

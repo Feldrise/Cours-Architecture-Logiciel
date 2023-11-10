@@ -58,15 +58,15 @@ class DataProcessor:
             return None
 
     def process_data(self, data):
-        processed_data = [{k: v.upper() if isinstance(v, str) else v for k, v in item.items()} for item in data]
+        processed_data = [{k: v.upper() if isinstance(v, str) else v for k, v in item.items()} for item in data['users']]
         return processed_data
 
     def display_data(self, data):
         for item in data:
-            print(f'Name: {item["name"]}, Age: {item["age"]}')
+            print(f'Name: {item["username"]}, Age: {item["age"]}')
 
 # Appel principal
-url = 'https://api.example.com/data'
+url = 'https://dummyjson.com/users'
 processor = DataProcessor(url)
 data = processor.fetch_data()
 if data:
